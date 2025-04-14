@@ -17,7 +17,7 @@ The Ecommerce Sales Project is a dynamic Power BI dashboard that provides a comp
 
 3.Monthly comparison of sales and orders
 
-- **Product Performance**
+- **Product Performance** -
 
 1.Top & Bottom 10 products by sales and profit
 
@@ -25,16 +25,30 @@ The Ecommerce Sales Project is a dynamic Power BI dashboard that provides a comp
 
 3.Product ratings impact on performance
 
-- **Geographic Analysis**
+- **Geographic Analysis** -
 
 1.Sales by region/country using map visuals
 
 2.Comparison of regions with highest revenue and number of customers
 
-- **Customer Insights**
+- **Customer Insights** -
 
  1.Repeat vs new customer analysis
+
  2.Customer lifetime value
+ 
  3.Customer segment breakdown (if available)
+
+ ## 🔍 Key Insights
+
+- High-Converting Categories: Certain product categories like [e.g. Electronics or Summer Apparel] consistently generate high sales volume and profit.
+
+- Sales Seasonality: Strong upward trends observed during [e.g. mid-year sales or festive seasons], which could inform future marketing campaigns.
+
+- Top Revenue Contributors: A small percentage of products and customers contribute disproportionately to revenue (Pareto Principle).
+
+- Geographic Trends: [e.g. Western Europe or North America] has higher average order values, indicating a potential area for upselling campaigns.
+
+- Underperforming SKUs: Identified items with low sales and ratings, ideal for promotion or phase-out strategies.
 
 
