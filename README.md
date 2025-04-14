@@ -9,35 +9,35 @@ The Ecommerce Sales Project is a dynamic Power BI dashboard that provides a comp
 
 ## 🔥 Key Features
 
-- **Sales Overview Page** -
+**Sales Overview Page** -
   
-1.Total Revenue, Total Orders, Total Customers, and Total Profit KPIs
+- Total Revenue, Total Orders, Total Customers, and Total Profit KPIs
 
-2.Trend lines for sales and profit over time
+- Trend lines for sales and profit over time
 
-3.Monthly comparison of sales and orders
+- Monthly comparison of sales and orders
 
-- **Product Performance** -
+ **Product Performance** -
 
-1.Top & Bottom 10 products by sales and profit
+- Top & Bottom 10 products by sales and profit
 
-2.Category and sub-category breakdowns
+- Category and sub-category breakdowns
 
-3.Product ratings impact on performance
+- Product ratings impact on performance
 
-- **Geographic Analysis** -
+ **Geographic Analysis** -
 
-1.Sales by region/country using map visuals
+- Sales by region/country using map visuals
 
-2.Comparison of regions with highest revenue and number of customers
+- Comparison of regions with highest revenue and number of customers
 
-- **Customer Insights** -
+ **Customer Insights** -
 
- 1.Repeat vs new customer analysis
+ - Repeat vs new customer analysis
 
- 2.Customer lifetime value
+ - Customer lifetime value
  
- 3.Customer segment breakdown (if available)
+ - Customer segment breakdown (if available)
 
  ## 🔍 Key Insights
 
