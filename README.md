@@ -33,7 +33,7 @@ The Ecommerce Sales Project is a dynamic Power BI dashboard that provides a comp
 
 - **Customer Insights**
 1.Repeat vs new customer analysis
-2.Customer lifetime value
-3.Customer segment breakdown (if available)
+ 2.Customer lifetime value
+ 3.Customer segment breakdown (if available)
 
 
