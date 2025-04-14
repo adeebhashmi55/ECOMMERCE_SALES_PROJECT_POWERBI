@@ -9,7 +9,7 @@ The Ecommerce Sales Project is a dynamic Power BI dashboard that provides a comp
 
 ## 🔥 Key Features
 
-**Sales Overview Page**
+- **Sales Overview Page**
 
 1.Total Revenue, Total Orders, Total Customers, and Total Profit KPIs
 
